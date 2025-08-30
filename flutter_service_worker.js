@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a",
-"assets/AssetManifest.bin.json": "d7c76e12fe04bd7afcb44edc7c177efe",
-"assets/AssetManifest.json": "d5f6c974677ea8956a787a847fabf1ea",
+const RESOURCES = {"assets/AssetManifest.bin": "523d823e4a27ba7b1a1c1bb9a7b10e8e",
+"assets/AssetManifest.bin.json": "8e1148bb03d74b6f6b1020f6a7c010e9",
+"assets/AssetManifest.json": "3a4722b72f47462aa6e8cb267b6a6b39",
 "assets/assets/fonts/BebasNeue-Regular.ttf": "b2b293064f557c41411aac04d6f6710d",
 "assets/assets/fonts/GreatDayBoldPersonalUse-LBB3.ttf": "f6fc5fc93b5622cfd70321d1165119a1",
 "assets/assets/fonts/GreatDayPersonalUse-14M2.ttf": "60bb254da767cc9c95448e22040ed608",
@@ -15,6 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a
 "assets/assets/icons/MathBridgeAcademy%2520-%2520Copy.jpg": "aa89c39b30dddfdf26db64fbc772f77c",
 "assets/assets/icons/MathBridgeAcademy(1).jpg": "3afa3e31752b6b56bcf43f80ce5159fc",
 "assets/assets/icons/MathBridgeAcademy.jpg": "3e0ad94fd1a8d292495d2472f3b250e7",
+"assets/assets/icons/social_preview.png": "82e65cb9fd8f41721a2d4cb619c9c8c4",
 "assets/assets/images/ambitious-teenager-with-dark-skin-and-boycut-make-2023-11-27-05-22-49-utc.jpg": "508e8e5ee662dd8dcab114f29ad7e99a",
 "assets/assets/images/back-to-school-conceptual-background-2023-11-27-05-37-00-utc.jpg": "b4979792ee9b122a8cdec9c12b802cdd",
 "assets/assets/images/cute-pastel-tricolor-paint-e4samxa3hn9kx1be.jpg": "acc0eec5da8338830baf6e72df1a0bf0",
@@ -54,8 +55,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a
 "assets/assets/images/young-african-american-woman-siting-at-cafe-workin-2023-11-27-04-55-45-utc.jpg": "4ae4068fdec971cc0a89fececae89c9a",
 "assets/FontManifest.json": "e09ad8ee501200e13a439d6c1169435f",
 "assets/fonts/MaterialIcons-Regular.otf": "1bd1ee7e3b9911ccfea574b7e01ae63e",
-"assets/NOTICES": "8a1a808d16787d2ca4fd353db52d2e90",
+"assets/NOTICES": "561ce3059043eaa3ce63163a6304b9cb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
+"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
+"assets/packages/flutter_inappwebview_web/assets/web/web_support.js": "509ae636cfdd93e49b5a6eaf0f06d79f",
 "assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "d10ac4ee5ebe8c8fff90505150ba2a76",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "728b2d477d9b8c14593d4f9b82b484f3",
@@ -69,7 +73,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "d5e20980a6f0d2ceea2b866be630522b",
+"flutter_bootstrap.js": "e47ab6e511572f76a1c8a4401a380c66",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -77,7 +81,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "fd62ecf3f56056bfdf2ae131377370bd",
+"main.dart.js": "cbf21ed2db3eef9e5f205ac6d025dca6",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "92b99fec9e1da8bbc97b4b3605bbc8c4"};
 // The application shell files that are downloaded before a service worker can
