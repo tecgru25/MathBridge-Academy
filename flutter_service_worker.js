@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cf4ab0eb1cf8738f091cd7b3ed1e7b6f",
-"assets/AssetManifest.bin.json": "9e955101eeea6ea8f3c9ab53b0a0d082",
-"assets/AssetManifest.json": "55d6ae18acaf7cdb7107b9ef6a0fbdae",
+const RESOURCES = {"assets/AssetManifest.bin": "d2a6e698e11142e2955888ea99185d3a",
+"assets/AssetManifest.bin.json": "d7c76e12fe04bd7afcb44edc7c177efe",
+"assets/AssetManifest.json": "d5f6c974677ea8956a787a847fabf1ea",
 "assets/assets/fonts/BebasNeue-Regular.ttf": "b2b293064f557c41411aac04d6f6710d",
 "assets/assets/fonts/GreatDayBoldPersonalUse-LBB3.ttf": "f6fc5fc93b5622cfd70321d1165119a1",
 "assets/assets/fonts/GreatDayPersonalUse-14M2.ttf": "60bb254da767cc9c95448e22040ed608",
@@ -27,6 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cf4ab0eb1cf8738f091cd7b3ed1e7b6f
 "assets/assets/images/landingPageHeader.png": "e4ffe56172fde33ad4f8cbfb6b23b867",
 "assets/assets/images/landingPageHeader.svg": "adb4c809701c96bcd7d70a38fdb129aa",
 "assets/assets/images/landingPageHeader.webp": "d56bb7f7ab9ffc7914d359b39041def2",
+"assets/assets/images/logo.webp": "9c5b128a8188445b89c5346b3313e2ca",
 "assets/assets/images/maintainance.gif": "1f4b15a962677279164a1d455855720b",
 "assets/assets/images/Mathbridge1.jpg": "c443751efda5372f6711478b7f0d2b83",
 "assets/assets/images/Mathbridge1.png": "4381e1e648e2df7b83e5231e27636c6f",
@@ -47,6 +48,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "cf4ab0eb1cf8738f091cd7b3ed1e7b6f
 "assets/assets/images/student_3.jpg": "b0dc8ef39258800070a695a8093b3dfb",
 "assets/assets/images/the-hand-that-is-written-with-the-white-chalk-and-2023-11-27-04-51-34-utc.jpg": "de19d2d8914db476f747e7f095d41c83",
 "assets/assets/images/three-multiethnic-women-at-desk-having-lesson-2024-06-17-21-06-48-utc.jpg": "07fa96436c09c108a7d04781d4fe9027",
+"assets/assets/images/WhatsApp_Image_2025-08-30_at_11.23.02-removebg-preview.png": "8e5618d106dcfd4c34e0530a67cdba33",
+"assets/assets/images/WhatsApp_Image_2025-08-30_at_11.23.02-removebg-preview._1.png": "f6f6c90a73276c16984da536967033c1",
+"assets/assets/images/WhatsApp_Image_2025-08-30_at_11.23.02-removebg-preview._1png.png": "26f33494f41575e31f1e6b2e26fd06ee",
 "assets/assets/images/young-african-american-woman-siting-at-cafe-workin-2023-11-27-04-55-45-utc.jpg": "4ae4068fdec971cc0a89fececae89c9a",
 "assets/FontManifest.json": "e09ad8ee501200e13a439d6c1169435f",
 "assets/fonts/MaterialIcons-Regular.otf": "1bd1ee7e3b9911ccfea574b7e01ae63e",
@@ -65,7 +69,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cf4ab0eb1cf8738f091cd7b3ed1e7b6f
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "af0e6c06ab4270f8339c7c88cc8c84b0",
+"flutter_bootstrap.js": "d5e20980a6f0d2ceea2b866be630522b",
 "icons/favicon.png": "3e0ad94fd1a8d292495d2472f3b250e7",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -73,7 +77,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cf4ab0eb1cf8738f091cd7b3ed1e7b6f
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "729c2dbce02449664debbe42c550f537",
 "/": "729c2dbce02449664debbe42c550f537",
-"main.dart.js": "c32c14574045b9cf0bf2f13f26283c6a",
+"main.dart.js": "fd62ecf3f56056bfdf2ae131377370bd",
 "manifest.json": "976841349ba856d0e3b27a2b31255481",
 "version.json": "92b99fec9e1da8bbc97b4b3605bbc8c4"};
 // The application shell files that are downloaded before a service worker can
